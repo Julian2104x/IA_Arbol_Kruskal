@@ -1,4 +1,4 @@
-import networkx as np
+import networkx as nx
 
 # Crear un grafo no dirigido con pesos en las aristas
 G = nx.Graph()
